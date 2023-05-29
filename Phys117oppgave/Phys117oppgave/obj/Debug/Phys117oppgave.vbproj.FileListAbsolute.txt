@@ -1,0 +1,12 @@
+C:\Users\Audun\source\repos\Phys117oppgave\Phys117oppgave\bin\Debug\Phys117oppgave.exe.config
+C:\Users\Audun\source\repos\Phys117oppgave\Phys117oppgave\bin\Debug\Phys117oppgave.exe
+C:\Users\Audun\source\repos\Phys117oppgave\Phys117oppgave\bin\Debug\Phys117oppgave.pdb
+C:\Users\Audun\source\repos\Phys117oppgave\Phys117oppgave\bin\Debug\Phys117oppgave.xml
+C:\Users\Audun\source\repos\Phys117oppgave\Phys117oppgave\obj\Debug\Phys117oppgave.Resources.resources
+C:\Users\Audun\source\repos\Phys117oppgave\Phys117oppgave\obj\Debug\Phys117oppgave.vbproj.GenerateResource.cache
+C:\Users\Audun\source\repos\Phys117oppgave\Phys117oppgave\obj\Debug\Phys117oppgave.vbproj.CoreCompileInputs.cache
+C:\Users\Audun\source\repos\Phys117oppgave\Phys117oppgave\obj\Debug\Phys117oppgave.exe
+C:\Users\Audun\source\repos\Phys117oppgave\Phys117oppgave\obj\Debug\Phys117oppgave.xml
+C:\Users\Audun\source\repos\Phys117oppgave\Phys117oppgave\obj\Debug\Phys117oppgave.pdb
+C:\Users\Audun\source\repos\Phys117oppgave\Phys117oppgave\obj\Debug\Phys117oppgave.Form1.resources
+C:\Users\Audun\source\repos\Phys117oppgave\Phys117oppgave\obj\Debug\Phys117oppgave.vbprojAssemblyReference.cache
