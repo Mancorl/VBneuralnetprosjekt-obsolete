@@ -1,1 +1,2 @@
 # VBneuralnetprosjekt-obsolete
+An old attempt at a Neural network written in VB.net, it is only capable of fourriertransforming one or more mono .wav files. The exe is able to be run in and of itself, however the neural network part doesn't work. (I believe i had it working at one point but was exhausted from 2 days of continuous programming that i didnt realize i had it working and destroyed it before i realized). the sourcecode should be written in Visual Studio (Not code) as it uses forms to interface with the code so that it may only be viewed properly in Visual studio.
